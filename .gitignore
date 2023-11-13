@@ -6,6 +6,11 @@
 *.swo
 *~
 
+bin/
+bin-int/
+*.vcxproj
+*.vcxproj.filters
+
 # Ignore thumbnails created by windows
 Thumbs.db
 
